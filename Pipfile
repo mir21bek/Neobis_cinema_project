@@ -9,6 +9,12 @@ djangorestframework = "*"
 python-decouple = "*"
 psycopg2-binary = "*"
 tzdata = "*"
+djangorestframework-simplejwt = "*"
+django-cors-headers = "*"
+drf-yasg = "*"
+pyjwt = "*"
+utils = "*"
+djoser = "*"
 
 [dev-packages]
 
